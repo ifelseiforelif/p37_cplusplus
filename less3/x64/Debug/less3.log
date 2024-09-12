@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Natalya\source\repos\p37\less3\Source.cpp(57,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  less3.vcxproj -> C:\Users\Natalya\source\repos\p37\x64\Debug\less3.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
